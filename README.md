@@ -54,7 +54,7 @@ The code in this project is separated into four distinct buckets:
 
 ## Results and Next Steps
 
-Our extended methods and results can be found [here](https://gitlab.oit.duke.edu/duke-mids/workingprojectrepositories/carolina-demography/-/blob/main/50_results/Final_Report.docx.pdf), but below are listed the major findings of our work:
+Our extended methods and results can be found [here](https://github.com/sarwaridas/carolina-demography/blob/main/50_results/Final_Report.docx.pdf), but below are listed the major findings of our work:
 
 1. There is likely significant geographic variance in population and housing coverage error in North Carolina. Specifically, eastern North Carolina counties show significantly lower population and housing counts in the Census when compared to previous estimates. Additionally, counties with potential undercounts have significantly higher Black populations than counties without undercounts, raising additional concerns about bias in the estimates.
 2. Administrative data sources within North Carolina are fairly robust and have to potential to de-bias estimates. Specifically data available from NCOneMap has information about every parcel of land in North Carolina. However, lack of data standardization by county significantly hampers the usability of this data.
